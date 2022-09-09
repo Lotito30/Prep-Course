@@ -1,0 +1,17 @@
+Concepto
+
+Variables
+Strings
+Funciones(argumentos,return)
+Declaraciones if
+Valores booleanos (true,false)
+
+Variables: Son aquellas estructuras de datos que se le asignan valores que pueden ir cambiando mediante la ejecucion del codigo
+
+String: Son cadenas de caracteres que van entre comillas " "
+
+Funciones(argumentos,return): Es una sentencia que realiza una acción cuando es llamada, puede tener argumentos para la ejecucion del codigo, y retorna un valor el cual solo se puede obtener con el return, las variables que estan dentro de las funciones no se pueden obtener desde afuera de ellas, solo con return.
+
+Declaraciones if: Es una sentencia que evalua una condicion mediante el true y false y ejecuta las lineas de codigo cuando la condicion es true.
+
+Valores booleanos(true,false): en la programacion todo es true y false, verdadero y falso. sirven para comprobar las condiciones de las sentencias y expresiones para poder ejercutar lineas de codigos.
