@@ -1,0 +1,29 @@
+Explicacion sobre el bucle for y los operadores logicos
+
+* `for`
+* `&&`, `||`, `!`
+
+For: Es un bucle que sirve para hacer acciones repetitivas mediante la creacion de una variable, dandole una condicion e incrimentando la variable para
+	 que salga del bucle cuando la variable se cumpla con la condicion.
+	 for (var = 0, i < 10, i++){
+		// bloquede codigo 
+	 }
+
+&&: Es un operador logico "AND" se utiliza para comparar dos operando y saber si los dos devuelven true entonces cumplen la condicion ya que el && funciona
+	 solo cuando los dos operando cumplen su condicion.
+	 if (i === 2 && j === 2){
+	 	//bloque de codigo
+	 }
+||: Es un operador logico "OR" se utiliza cuando tenemos una condicion que funciona con un operando u otro, se cumple la condicion si alguno de los dos es 	 	 true  
+	if (i === 2 || j === 2){
+	 	//bloque de codigo
+	 }
+!: Es un operador logico "NOT" se utiliza cuando tenemos una condicion la cual le expresas si un operando es diferente al otro, cuando necesitas negar un 	 	valor.
+
+	!true -> false
+	!false -> true
+
+	if (i !== 2){
+	 	//bloque de codigo
+	 }
+	
