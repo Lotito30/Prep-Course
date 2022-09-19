@@ -1,0 +1,11 @@
+Conceptos
+* `prototype`
+* _Constructors_ (de Clases)
+
+prototype: 
+al momento de crear metodos de clases que pueden muchos se utiliza prototype para crear una funcion la cual puede ser llamada desde
+cualquier instancia de objeto asi no se tiene que repetir los metodos en todas las clases que vayamos a crear. 
+
+_Constructors_:
+el _Constructors_ nos permite anidar las propiedades de una SuperClase a una SubClase para no tener que repetir codigo en todas 
+las clases que vayamos a crear como puede ser Un perro y un gato tiene propiedades de Animal
