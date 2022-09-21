@@ -1,0 +1,33 @@
+body {
+  background-image: url("restaurante.jpg");
+  background-size: cover;
+}
+h1 {
+  color: rgb(255, 0, 0);
+}
+img {
+  width: 400px;
+}
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background-color: darkgoldenrod;
+}
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+#thirdDiv {
+  padding: 50px;
+  border: 6px solid red;
+}
+a {
+  color: yellow;
+}
+.divClass,
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
