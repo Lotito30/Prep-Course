@@ -1,0 +1,6 @@
+Concepto
+
+* Funciones Callback:
+    Son funciones que pueden llamar otras funciones como argumentos y utilizando algunos metodos que recorren los array, 
+como estos metodos que usamos: .length,.push,.shift,.unshift, que se utilizan en un array. Las funciones CallBack utilizan 
+los metodos .reduce, .map y .forEach. Se usa el argumento 'cb' cuando utilizamos una función CallBack 
