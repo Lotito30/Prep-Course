@@ -1,0 +1,17 @@
+p,
+li,
+figcaption {
+  font: 18px arial; 
+}
+p{
+  text-indent: 2%;
+  line-height: 150%;
+}
+img{
+  width:250px;
+}
+h3,
+h1,
+h2{
+  text-indent:0.5em;
+}
